@@ -1,0 +1,4 @@
+- Hi, I’m @max220502
+- I work on various projects here for fun and to improve my skills.
+- I’m currently learning Python
+- I already have experience in HTML, CSS, JS and MySQL
